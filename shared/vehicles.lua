@@ -4461,7 +4461,7 @@ QBShared.Vehicles = {
 		['category'] = 'commercial',
 		['hash'] = `scrap`,
 		['shop'] = 'pdm',
-	},
+	}
 }
 
 for k,v in pairs(QBShared.Vehicles) do
