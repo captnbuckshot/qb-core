@@ -4173,6 +4173,7 @@ QBShared.Vehicles = {
 		['category'] = 'boats',
 		['hash'] = `longfin`,
 		['shop'] = 'boats',
+	},
 
 -- Big Vehicles
 	['hauler'] = {
@@ -4201,6 +4202,7 @@ QBShared.Vehicles = {
 		['category'] = 'boats',
 		['hash'] = `toro2`,
 		['shop'] = 'boats',
+	},
 	['phantom'] = {
 		['name'] = 'Phantom',
 		['brand'] = 'Jobuilt',
@@ -4409,6 +4411,7 @@ QBShared.Vehicles = {
 		['category'] = 'planes',
 		['hash'] = `vestra`,
 		['shop'] = 'air',
+	},
 	['packer'] = {
 		['name'] = 'Packer',
 		['brand'] = 'MTL',
@@ -4453,6 +4456,7 @@ QBShared.Vehicles = {
 		['category'] = 'planes',
 		['hash'] = `nimbus`,
 		['shop'] = 'air',
+	},
 	['scrap'] = {
 		['name'] = 'Scrap',
 		['brand'] = 'Vapid',
