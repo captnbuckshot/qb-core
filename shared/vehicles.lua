@@ -3984,6 +3984,15 @@ QBShared.Vehicles = {
 		['shop'] = 'pdm',
 	},
 	-- Utility
+	['tractor2'] = {
+		['name'] = 'Fieldmaster',
+		['brand'] = 'Stanley',
+		['model'] = 'tractor2',
+		['price'] = 30000,
+		['category'] = 'commercial',
+		['hash'] = `tractor2`,
+		['shop'] = 'pdm',
+	},
 	['sadler'] = {
 		['name'] = 'Sadler',
 		['brand'] = 'Vapid',
@@ -4164,6 +4173,16 @@ QBShared.Vehicles = {
 		['category'] = 'boats',
 		['hash'] = `longfin`,
 		['shop'] = 'boats',
+
+-- Big Vehicles
+	['hauler'] = {
+		['name'] = 'Hauler',
+		['brand'] = 'Jobuilt',
+		['model'] = 'hauler',
+		['price'] = 3000,
+		['category'] = 'commercial',
+		['hash'] = `hauler`,
+		['shop'] = 'pdm',
 	},
 	['toro'] = {
 		['name'] = 'Toro',
@@ -4182,6 +4201,14 @@ QBShared.Vehicles = {
 		['category'] = 'boats',
 		['hash'] = `toro2`,
 		['shop'] = 'boats',
+	['phantom'] = {
+		['name'] = 'Phantom',
+		['brand'] = 'Jobuilt',
+		['model'] = 'phantom',
+		['price'] = 5000,
+		['category'] = 'commercial',
+		['hash'] = `phantom`,
+		['shop'] = 'pdm',
 	},
 	-- helicopters
 	['buzzard2'] = {
@@ -4382,6 +4409,14 @@ QBShared.Vehicles = {
 		['category'] = 'planes',
 		['hash'] = `vestra`,
 		['shop'] = 'air',
+	['packer'] = {
+		['name'] = 'Packer',
+		['brand'] = 'MTL',
+		['model'] = 'packer',
+		['price'] = 7000,
+		['category'] = 'commercial',
+		['hash'] = `packer`,
+		['shop'] = 'pdm',
 	},
 	['dodo'] = {
 		['name'] = 'Dodo',
@@ -4418,6 +4453,14 @@ QBShared.Vehicles = {
 		['category'] = 'planes',
 		['hash'] = `nimbus`,
 		['shop'] = 'air',
+	['scrap'] = {
+		['name'] = 'Scrap',
+		['brand'] = 'Vapid',
+		['model'] = 'scrap',
+		['price'] = 5000,
+		['category'] = 'commercial',
+		['hash'] = `scrap`,
+		['shop'] = 'pdm',
 	},
 }
 
